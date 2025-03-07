@@ -2,6 +2,7 @@
 
 Este projeto foi desenvolvido como parte da submissão para o programa ONE Oracle. Ele consiste em uma página web interativa para realizar sorteios de amigo secreto de maneira simples e eficiente.
 
+visite em: https://artcarvalho.github.io/challenge_One1/
 ## 🚀 Funcionalidades
 
 - Cadastro de participantes;
